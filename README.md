@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Rafael M. Petersen</h1>
-<h3 align="center">Analista de sistemas, Gerente de NOC e desenvolvedor</h3>
+<h3 align="center">Analista e desenvolvedor de sistemas e técnico especialista</h3>
 
 <a href="./README-eng.md">Click HERE to View my profile in english</a>
 
