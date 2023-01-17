@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/rafaelpetersen1" target="blank"><img src="https://img.shields.io/twitter/follow/rafaelpetersen1?logo=twitter&style=for-the-badge" alt="rafaelpetersen1" /></a> </p>
 
-- 🔭 Trabalhando atualmente em **Projetos pessoais para aperfeiçoamento de habilidades**
+- 🔭 Trabalhando atualmente em **Tecnico especialista na FAETEC RJ, Projetos pessoais em React, React Native e NodeJS para aperfeiçoamento de habilidades**
 
-- 🌱 Estudando: **Bootcamp IGNITE da Rocketseat, Imersão Full Cycle**
+- 🌱 Estudando: **Bootcamp IGNITE da Rocketseat**
 
-- 👯 Desejo colaborar com  **React Native, React and Node.js**
+- 👯 Desejo colaborar com **React Native, React and Node.js**
 
-- 🤝 Ajuda e conselhos em  **Aprimoramento de habilidades pessoais**
+- 🤝 Ajuda e conselhos em **Aprimoramento de habilidades pessoais**
 
 - 👨‍💻 Meus projetos estão disponíveis em [https://github.com/rmpetersen86](https://github.com/rmpetersen86)
 
@@ -27,7 +27,10 @@
 
 - 📄 Conheça sobre minhas experiências [www.linkedin.com/in/rafael-petersen-ab827a14a](www.linkedin.com/in/rafael-petersen-ab827a14a)
 
-- ⚡ Descontração **Movido a cafe**
+- ⚡ Descontração **Movido a café**
+
+<h3 align="left">Participação em Eventos 2023:</h3>
+- 🚀 16/01 a 23/01 - Rocketseat - NLW SETUP - Trilha Ignite
 
 <h3 align="left">Conect-se comigo em:</h3>
 <p align="left">
@@ -46,4 +49,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rmpetersen86&show_icons=true&locale=en" alt="rmpetersen86" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmpetersen86&" alt="rmpetersen86" /></p>
-

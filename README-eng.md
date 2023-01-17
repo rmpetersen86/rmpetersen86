@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael M. Petersen</h1>
-<h3 align="center">A NOC manager and developer from Brazil</h3>
+<h3 align="center">A specialist technician and developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmpetersen86&label=Profile%20views&color=0e75b6&style=flat" alt="rmpetersen86" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/rafaelpetersen1" target="blank"><img src="https://img.shields.io/twitter/follow/rafaelpetersen1?logo=twitter&style=for-the-badge" alt="rafaelpetersen1" /></a> </p>
 
-- 🔭 I’m currently working on **IGNITE Training from Rocketseat and Imersão Full Stack && Full Cycle and some personal projects for skills improvment**
+- 🔭 I’m currently working on **Specialist Technician at FAETEC RJ, and personal projects on React, React Native and NodeJS for skills improvment**
 
-- 🌱 I’m currently learning **React Native, React, Node.js, Kubernetes, Docker**
+- 🌱 I’m currently learning **React Native, React, Node.js**
 
 - 👯 I’m looking to collaborate on **React Native, React and Node.js**
 
@@ -19,13 +19,16 @@
 
 - 📝 I write things on [https://www.facebook.com/rafael.petersen.94](https://www.facebook.com/rafael.petersen.94)
 
-- 💬 Ask me about **React Native, React and Node.js**
+- 💬 Ask me about **CISCO, Linux, React Native, React and Node.js**
 
 - 📫 How to reach me **rafael.petersen86@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/rafael-petersen-ab827a14a](www.linkedin.com/in/rafael-petersen-ab827a14a)
 
-- ⚡ Fun fact **meh**
+- ⚡ Fun fact **Powered by Cofee**
+
+<h3 align="left">Events participation 2023:</h3>
+- 🚀 01/16 a 01/23 - Rocketseat - NLW SETUP - Ignite trail
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
